@@ -12,3 +12,7 @@
     @apply dark:bg-black;
   }
 }
+
+.bgImage{
+  background-image: url('./assets/images/login.webp');
+}

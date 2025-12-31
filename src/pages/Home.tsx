@@ -8,6 +8,9 @@ const Home:React.FC=()=>{
         <h1 className="text-center font-bold text-4xl m-5">Hello worled..</h1>
 
     </section>
+    <section className="h-screen bgImage">
+
+    </section>
     
     
     </>
