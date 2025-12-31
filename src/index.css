@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@config '../tailwind.config.ts';
+
+@theme {
+    
+}
+
+
+@layer base {
+  body {
+    @apply dark:bg-black;
+  }
+}
